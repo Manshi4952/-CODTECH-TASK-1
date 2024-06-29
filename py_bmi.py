@@ -11,4 +11,4 @@ def bmi(weight, height):
     elif calculator >= 30:
         return "OH.. Noo.. You are Obesity"
     else:
-        return "The Weight Must Be An Integer And Height In Decimal"
+        return "The weight must be an Integer And Height in Decimal"

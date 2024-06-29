@@ -21,9 +21,9 @@ def readme(file="README.md"):
 setuptools.setup(
     name="Py_bmi",
     version="1.0.9",
-    description="A Python module for Checking your bmi",
+    description="A Python module for Checking  bmi",
     long_description=readme(),
-    long_description_content_type="text/markdown",
+    long_description_content_type="Text/Markdown",
     license="MIT",
     author="Muhammed Fazin",
     classifiers=[

@@ -19,7 +19,7 @@ height = 1.4
 print(bmi(weight,height))
 # >> OH.. Noo.. You are Obesity
 #The First Variable Must Be Weight In Kilograms 
-#The Second Variable Must Be Height In Meters 
+#The Second Variable must be Height In Meters 
 #Both Are Must Be Intergers 
 ```
 ---
