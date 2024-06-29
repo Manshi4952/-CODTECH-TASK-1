@@ -31,8 +31,4 @@ print(bmi(weight,height))
 ---
 
 
-## Special Thanks
 
-[Fayas Noushad](https://github.com/FayasNoushad) & [Lokaman](https://github.com/lntechnical2) For Helping Me
-
----
